@@ -3,6 +3,6 @@
 iOS Core Animation demo
 
 - CALayer
-- CAEmiterLayer
+- CAEmitterLayer
 - CAGradientLayer
 - CAShapeLayer
