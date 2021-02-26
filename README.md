@@ -1,6 +1,6 @@
 # FallingGenes
 
-Core Animation demo
+iOS Core Animation demo
 
 - CALayer
 - CAEmiterLayer
